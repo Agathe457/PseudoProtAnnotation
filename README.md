@@ -1,1 +1,1 @@
-# Pseudomonas Structure-based Protein Annotation
+# Pseudomonas Structure-Based Protein Annotation
