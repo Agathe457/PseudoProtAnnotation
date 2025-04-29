@@ -1,0 +1,622 @@
+batch,protein,source,best_annotation,information
+batch_1,AAF807661,AF50M,Transposase,High
+batch_1,AAF808321,AF50M,Transcriptional regulator,High
+batch_1,AAQ139271,PHOLD,partition protein ATPase,High
+batch_1,AAQ139311,PHOLD,Mu Gam-like end protection,High
+batch_1,AAQ139341,PHOLD,tail fiber protein,High
+batch_1,ABW230851,PHOLD,acetyltransferase,High
+batch_1,ABY709771,AF50M,50S ribosomal protein L19,High
+batch_1,ACA576581,PHOLD,host nuclease inhibitor,High
+batch_1,ACA576611,AF50M,Conjugal transfer protein TraD,High
+batch_1,ACA576801,PHOLD,Hdf-like antirestriction,High
+batch_1,ADD649821,PHOLD,DarB-like antirestriction,High
+batch_1,ADD650101,PHOLD,head decoration,High
+batch_1,ADD650151,PHOLD,tail sheath,High
+batch_1,ADD650821,PHOLD,DNA polymerase/primase,High
+batch_1,ADD650841,PHOLD,virion structural protein,High
+batch_1,ADE058351,PHOLD,endonuclease VII,High
+batch_1,ADF293191,PHOLD,endonuclease VII,High
+batch_1,ADF581491,PHOLD,anti-restriction protein,High
+batch_1,ADF581521,PHOLD,HNH endonuclease,High
+batch_1,ADF581681,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;F4YDM1 : Uncharacterized protein (active UniProt ID: Y);WP_016057454 : hypothetical protein (active UniProt ID: N);A0A081J8I0 : Uncharacterized protein (active UniProt ID: N);YP_007002420 : hypothetical protein (active UniProt ID: Y);YP_007236511 : hypothetical protein (active UniProt ID: Y);UOL47900 : Uncharacterized protein (active UniProt ID: Y);A0A072T783 : Uncharacterized protein (active UniProt ID: N);WBQ35109 : Uncharacterized protein (active UniProt ID: Y);YP_010762495 : hypothetical protein (active UniProt ID: Y);KEH13018 : Uncharacterized protein (active UniProt ID: Y);ADF58168 : Uncharacterized protein (active UniProt ID: Y);WP_016057454 : hypothetical protein (active UniProt ID: N);G0YVA3 : Uncharacterized protein (active UniProt ID: Y);A0AAF0ARF2 : Uncharacterized protein (active UniProt ID: Y);YP_010765562 : hypothetical protein (active UniProt ID: Y);AEK21640 : Uncharacterized protein (active UniProt ID: Y);KEH08687 : Uncharacterized protein (active UniProt ID: Y);A0AAE9KDV6 : Uncharacterized protein (active UniProt ID: Y)",Low
+batch_1,ADF581721,PHOLD,late sigma transcription factor,High
+batch_1,ADF582311,PHOLD,tail length tape measure protein,High
+batch_1,ADF582331,PHOLD,internal virion protein,High
+batch_1,ADF582411,PHOLD,DarB-like antirestriction,High
+batch_1,ADU155251,PHOLD,holin,High
+batch_1,ADX320601,PHOLD,single strand DNA binding protein,High
+batch_1,ADX320621,AF50M,Portal protein,High
+batch_1,ADX320691,PHOLD,transposase,High
+batch_1,ADX321091,PHOLD,tail length tape measure protein,High
+batch_1,AEC532551,PHOLD,integrase,High
+batch_1,AEK215781,PHOLD,MazG-like pyrophosphatase,High
+batch_1,AEK215801,PHOLD,head maturation protease,High
+batch_1,AEK216471,PHOLD,portal protein,High
+batch_1,AEK216601,PHOLD,transglycosylase,High
+batch_1,AEK216791,PHOLD,endolysin,High
+batch_1,AEK216811,PHOLD,internal virion protein,High
+batch_1,AEK216821,PHOLD,endolysin,High
+batch_1,AEK216851,PHOLD,DNA binding protein,High
+batch_1,AEX558101,PHOLD,dATP / dGTP pyrophosphohydrolase,High
+batch_1,AEX558441,PHOLD,homing endonuclease with GIY-YIG motif,High
+batch_1,AEX559111,PHOLD,ParB-like partition protein,High
+batch_1,AEX559201,PHOLD,head-tail adaptor,High
+batch_1,AEX559211,PHOLD,replication initiation protein,High
+batch_1,AEX559301,PHOLD,DNA repair exonuclease,High
+batch_1,AEX559391,PHOLD,virion structural protein,High
+batch_1,AEX658471,AF50M,TetR family transcriptional regulator,High
+batch_1,AEX658541,PHOLD,baseplate hub subunit and tail lysozyme,High
+batch_1,AEY994621,AF50M,50S ribosomal protein L29,High
+batch_1,AEY994711,AF50M,Regulatory protein GemA,High
+batch_1,AFB833171,AF50M,Four helix bundle protein,High
+batch_1,AFB833361,PHOLD,anti-repressor Ant,High
+batch_1,AFB833461,PHOLD,2OG-Fe(II) oxygenase,High
+batch_1,AFD106931,AF50M,GNAT family N-acetyltransferase,High
+batch_1,AFD107021,PHOLD,ADP-ribosyltransferase exoenzyme toxin,High
+batch_1,AFE864431,PHOLD,excisionase and transcriptional regulator,High
+batch_1,AFN 395741,PHOLD,nucleoside 2-deoxyribosyltransferase,High
+batch_1,AFN 395861,PHOLD,DNA polymerase,High
+batch_1,AFN 396021,PHOLD,FmdB-like transcriptional regulator,High
+batch_1,AFN 396061,PHOLD,virion structural protein,High
+batch_1,AFN 396131,PHOLD,Rnase E,High
+batch_1,AFN 396161,AF50M,Transposase,High
+batch_1,AFO123181,PHOLD,integrase,High
+batch_1,AFO705141,PHOLD,DNA polymerase,High
+batch_1,AFQ218781,AF50M,AI-2E family transporter,High
+batch_1,AFQ220321,PHOLD,tail terminator,High
+batch_1,AFQ220701,PHOLD,Avd protein of DGR,High
+batch_1,AFQ220821,PHOLD,HNH endonuclease,High
+batch_1,AFQ220831,PHOLD,tail length tape measure protein,High
+batch_1,AFQ220871,PHOLD,Lar-like restriction alleviation protein,High
+batch_1,AFR521561,PHOLD,major head and protease protein,High
+batch_1,AFR521571,PHOLD,phosphoadenosine phosphosulfate reductase,High
+batch_1,AFR521601,PHOLD,transcriptional regulator,High
+batch_1,AFR521611,PHOLD,HNH endonuclease,High
+batch_1,AFR521891,PHOLD,endonuclease VII,High
+batch_1,AFR522171,AF50M,Transposase,High
+batch_1,AFR522221,PHOLD,Mu Gam-like end protection,High
+batch_1,AFR522281,AF50M,ATP-binding protein,High
+batch_1,AFR522441,PHOLD,major head protein,High
+batch_1,AGC346111,PHOLD,DNA polymerase/primase,High
+batch_1,AGR889611,PHOLD,head decoration,High
+batch_1,AGR889641,PHOLD,head protein,High
+batch_1,AGR890541,PHOLD,Erf-like ssDNA annealing protein,High
+batch_1,AGR890861,PHOLD,Lar-like restriction alleviation protein,High
+batch_1,AGR890881,PHOLD,head maturation protease,High
+batch_1,AGR891641,PHOLD,portal protein,High
+batch_1,AGR891841,PHOLD,head-tail adaptor,High
+batch_1,AGR892001,PHOLD,head closure,High
+batch_1,AGR892081,PHOLD,head morphogenesis,High
+batch_1,AGR892091,PHOLD,ATPase,High
+batch_1,AGR892541,PHOLD,transcriptional regulator,High
+batch_1,AGR893781,PHOLD,DNA primase/helicase,High
+batch_1,AGR895621,PHOLD,membrane protein,High
+batch_1,AGR895981,AF50M,DRB sensitivity-inducing factor large subunit,High
+batch_1,AGS816971,PHOLD,ribonucleoside reductase class II,High
+batch_1,AGS817001,PHOLD,co-chaperonin GroES,High
+batch_1,AGS817661,PHOLD,MazG-like pyrophosphatase,High
+batch_1,AGS817691,PHOLD,tail length tape measure protein,High
+batch_1,AGS817871,PHOLD,Dda-like helicase,High
+batch_1,AIK675841,PHOLD,baseplate wedge subunit,High
+batch_1,AIM403001,PHOLD,tail fiber protein,High
+batch_1,AIM403041,PHOLD,clamp loader of DNA polymerase,High
+batch_1,AIZ947531,PHOLD,tail sheath,High
+batch_1,AIZ948351,PHOLD,terminase large subunit,High
+batch_1,AIZ949571,PHOLD,HNH endonuclease,High
+batch_1,AIZ949661,PHOLD,nucleotide kinase,High
+batch_1,AKC047561,PHOLD,DarB-like antirestriction,High
+batch_1,AKC047911,PHOLD,kinase,High
+batch_1,ALH237741,AF50M,Host-nuclease inhibitor protein Gam,High
+batch_1,ALH238211,AF50M,Phage minor structural protein GP20,High
+batch_2,BAJ091231,PHOLD,head maturation protease,High
+batch_2,BAJ091981,PHOLD,collagen like minor tail,High
+batch_2,BAJ092011,PHOLD,endolysin,High
+batch_2,BAK789491,PHOLD,single strand DNA binding protein,High
+batch_2,BAM 370731.00,AF50M,Terminase small subunit,High
+batch_1,CAO777591,AF50M,Host-nuclease inhibitor protein Gam,High
+batch_1,CAO777601,PHOLD,primase,High
+batch_1,CAO777631,PHOLD,ParB-like partition protein,High
+batch_1,CAO777801,PHOLD,transcriptional repressor,High
+batch_1,CAO777871,AF50M,Pyrophosphatase,High
+batch_1,CAO778041,PHOLD,tail protein,High
+batch_1,CAP455011,AF50M,GNAT family N-acetyltransferase,High
+batch_1,CAX631161,PHOLD,acetyltransferase,High
+batch_2,CAZ662011,PHOLD,RNA polymerase sigma factor,High
+batch_2,CAZ662811,PHOLD,phosphofructokinase,High
+batch_2,CAZ663051,AF50M,Lysozyme,High
+batch_2,CAZ663071,PHOLD,endolysin,High
+batch_2,CCD584531,PHOLD,endonuclease VII,High
+batch_2,CCD584661,AF50M,Phage tail protein,High
+batch_2,CCM435471,PHOLD,head scaffolding protein,High
+batch_2,CCM435491,PHOLD,Erf-like ssDNA annealing protein,High
+batch_2,CCM435791,PHOLD,tail fiber protein,High
+batch_2,CCM435821,PHOLD,head closure,High
+batch_2,CCM436231,PHOLD,tail length tape measure protein,High
+batch_2,CCM436451,PHOLD,single strand DNA binding protein,High
+batch_2,CCM436691,PHOLD,virion structural protein,High
+batch_2,CCM436831,PHOLD,ParB C-terminal domain,High
+batch_2,CDI068201,AF50M,RHS repeat protein,High
+batch_2,CEF890291,PHOLD,Lar-like restriction alleviation protein,High
+batch_2,CEF891661,AF50M,Head decoration protein,High
+batch_2,CEF892841,PHOLD,exonuclease,High
+batch_1,CEF893711,PHOLD,head decoration,High
+batch_1,CEF893981,PHOLD,RIIB lysis inhibitor,High
+batch_1,CEF894161,PHOLD,thymidylate synthase,High
+batch_1,CEF894601,PHOLD,portal protein,High
+batch_1,CEF894681,PHOLD,tail fiber protein,High
+batch_2,CEF896491,PHOLD,ribonucleotide reductase large subunit,High
+batch_2,CEF896731,AF50M,ATP-binding protein,High
+batch_2,CEF896741,PHOLD,FmdB-like transcriptional regulator,High
+batch_2,CEF896941,PHOLD,endonuclease VII,High
+batch_1,CEQ382871,AF50M,CbrC family protein,High
+batch_1,CEQ382961,PHOLD,dual specificity phosphatase,High
+batch_1,CEQ382981,PHOLD,head maturation protease,High
+batch_1,CEQ383281,PHOLD,DNA helicase,High
+batch_2,NP_9382321,PHOLD,tail length tape measure protein,High
+batch_2,NP_9382381,PHOLD,single strand DNA binding protein,High
+batch_2,Station124_SUR_ALL_assembly_NODE_37_length_105919_cov_44120834_105,PHOLD,ParB-like partition protein,High
+batch_2,Station124_SUR_ALL_assembly_NODE_37_length_105919_cov_44120834_9,AF50M,Terminase,High
+batch_2,Station124_SUR_ALL_assembly_NODE_37_length_105919_cov_44120834_99,PHOLD,ribosomal protein S6 glutaminyl transferase,High
+batch_2,Station158_MES_ALL_assembly_NODE_8782_length_10785_cov_21171948_3,PHOLD,DNA helicase,High
+batch_2,Station168_IZZ_ALL_assembly_NODE_3672_length_26152_cov_7108250_15,PHOLD,ribonucleoside-diphosphate reductase large subunit,High
+batch_1,Station168_IZZ_ALL_assembly_NODE_8815_length_13488_cov_12458870_3,AF50M,Phage tail protein,High
+batch_2,Station173_DCM_ALL_assembly_NODE_7308_length_14987_cov_66828020_14,PHOLD,cold shock protein,High
+batch_2,Station188_DCM_ALL_assembly_NODE_5117_length_14999_cov_16610278_1,PHOLD,DHH phosphoesterase,High
+batch_2,Station189_MES_ALL_assembly_NODE_2810_length_24812_cov_142738741_20,PHOLD,transcriptional regulator,High
+batch_1,Station189_MES_ALL_assembly_NODE_4836_length_17546_cov_50620205_3,PHOLD,endolysin,High
+batch_2,Station193_SUR_ALL_assembly_NODE_4133_length_12932_cov_136852916_4,PHOLD,head scaffolding protein,High
+batch_2,Station194_SUR_ALL_assembly_NODE_4988_length_10764_cov_13455785_2,AF50M,TMhelix containing protein,High
+batch_2,Station194_SUR_ALL_assembly_NODE_692_length_39460_cov_460485903_40,PHOLD,tail fiber protein,High
+batch_2,Station196_SUR_ALL_assembly_NODE_1147_length_31902_cov_58251923_12,PHOLD,HNH endonuclease,High
+batch_2,Station201_DCM_ALL_assembly_NODE_1656_length_28270_cov_44278221_16,PHOLD,DNA polymerase,High
+batch_1,Station201_SUR_ALL_assembly_NODE_6754_length_10937_cov_49332476_10,PHOLD,minor head protein,High
+batch_2,Station205_SUR_ALL_assembly_NODE_3021_length_14828_cov_31778041_11,AF50M,HNH endonuclease,High
+batch_2,Station208_SUR_ALL_assembly_NODE_2668_length_16987_cov_4799610_21,PHOLD,internal virion protein,High
+batch_2,Station209_MES_ALL_assembly_NODE_3431_length_24797_cov_21307130_27,PHOLD,endolysin,High
+batch_2,Station209_MES_ALL_assembly_NODE_9734_length_11027_cov_2612377_7,AF50M,DNA primase,High
+batch_2,Station209_SUR_ALL_assembly_NODE_8688_length_11405_cov_12310132_16,AF50M,GLPGLI family protein,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_20,PHOLD,single strand annealing protein,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_23,PHOLD,terminase small subunit,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_25,PHOLD,HNH endonuclease,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_29,PHOLD,ATP-dependent DNA ligase,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_31,PHOLD,homing endonuclease,High
+batch_2,Station41_SUR_ALL_assembly_NODE_88_length_49579_cov_21067018_45,PHOLD,DNA polymerase exonuclease subunit,High
+batch_2,Station42_SUR_ALL_assembly_NODE_399_length_31866_cov_13797271_11,PHOLD,tail fiber protein,High
+batch_1,Station56_SUR_ALL_assembly_NODE_2123_length_11757_cov_11895402_7,AF50M,Radical SAM protein,High
+batch_2,Station65_DCM_ALL_assembly_NODE_687_length_28997_cov_3732223_3,PHOLD,tail fiber protein,High
+batch_2,Station67_SUR_ALL_assembly_NODE_1947_length_14681_cov_36088062_12,AF50M,Histone,High
+batch_2,Station78_DCM_ALL_assembly_NODE_1171_length_19932_cov_6375862_39,AF50M,Phage recombination protein Bet,High
+batch_2,Station78_MES_DO_NOT_POOL_NODE_4927_length_11426_cov_10471638_15,PHOLD,minor head protein,High
+batch_2,Station85_SUR_COMBINED_FINAL_NODE_2658_length_14143_cov_113885221_17,PHOLD,major head protein,High
+batch_2,TemPhD_cluster_10199_7,PHOLD,endolysin,High
+batch_2,TemPhD_cluster_10902_40,AF50M,Transmembrane protein,High
+batch_2,TemPhD_cluster_11622_30,PHOLD,DNA methyltransferase,High
+batch_2,TemPhD_cluster_11622_42,AF50M,Head-tail adaptor protein,High
+batch_2,TemPhD_cluster_11622_44,AF50M,Phage tail protein,High
+batch_2,TemPhD_cluster_11622_62,PHOLD,tail fiber protein,High
+batch_2,TemPhD_cluster_11901_34,PHOLD,integrase,High
+batch_2,TemPhD_cluster_12581_3,PHOLD,terminase small subunit,High
+batch_2,TemPhD_cluster_12950_4,PHOLD,DNA polymerase exonuclease subunit,High
+batch_2,TemPhD_cluster_13835_2,AF50M,Lipoprotein,High
+batch_2,TemPhD_cluster_13835_29,PHOLD,tail length tape measure protein,High
+batch_2,TemPhD_cluster_13835_50,PHOLD,terminase large subunit,High
+batch_2,TemPhD_cluster_13835_54,PHOLD,Lar-like restriction alleviation protein,High
+batch_2,TemPhD_cluster_13835_59,PHOLD,homing endonuclease,High
+batch_2,TemPhD_cluster_14034_12,AF50M,Phage tail protein,High
+batch_2,TemPhD_cluster_14204_2,AF50M,Phage tail protein,High
+batch_2,YP_0012188221,PHOLD,tail fiber protein,High
+batch_2,YP_0012188341,PHOLD,single strand DNA binding protein,High
+batch_2,YP_0012933631,AF50M,Capsid protein,High
+batch_2,YP_0012933641,AF50M,Minor tail protein,High
+batch_2,YP_0012933751,PHOLD,transglycosylase,High
+batch_2,YP_0012933921,PHOLD,DNA polymerase/primase,High
+batch_2,YP_0012933991,PHOLD,major head protein,High
+batch_2,YP_0012945091,PHOLD,single strand DNA binding protein,High
+batch_2,YP_0012945641,PHOLD,DNA polymerase,High
+batch_2,YP_0012945671,AF50M,5'-deoxynucleotidase,High
+batch_2,YP_0012945861,PHOLD,cytidyltransferase,High
+batch_2,YP_0012946081,PHOLD,single strand DNA binding protein,High
+batch_2,YP_0012946101,PHOLD,major head and protease protein,High
+batch_2,YP_0012946631,PHOLD,kinase,High
+batch_2,YP_0090071061,PHOLD,exonuclease,High
+batch_2,YP_0090305541,AF50M,Terminase small subunit,High
+batch_2,YP_0090305751,PHOLD,tail fiber protein,High
+batch_2,YP_0090305781,AF50M,ATPase,High
+batch_2,YP_0090306201,AF50M,Phage tail protein,High
+batch_2,YP_0090432311,AF50M,TetR family transcriptional regulator,High
+batch_2,YP_0090432321,PHOLD,DNA polymerase,High
+batch_2,YP_0090432441,PHOLD,endolysin,High
+batch_2,YP_0090435571,PHOLD,tail fiber protein,High
+batch_2,YP_0090435781,AF50M,TolA protein,High
+batch_2,YP_0091870501,PHOLD,MutT/NUDIX hydrolase,High
+batch_2,YP_0091874051,AF50M,Phage tail assembly chaperone,High
+batch_2,YP_0091874831,PHOLD,phosphofructokinase,High
+batch_2,YP_0091885161,PHOLD,tail fiber protein,High
+batch_2,YP_0091885191,PHOLD,HNH endonuclease,High
+batch_2,YP_0091963161,PHOLD,terminase large subunit,High
+batch_2,YP_0091999781,PHOLD,portal protein,High
+batch_2,YP_0092000371,PHOLD,exonuclease V,High
+batch_2,YP_0092000821,PHOLD,collagen like minor tail,High
+batch_2,YP_0092000831,PHOLD,tail fiber protein,High
+batch_2,YP_0092056291,PHOLD,minor head protein,High
+batch_2,YP_0092056421,PHOLD,tail length tape measure protein,High
+batch_2,YP_0092059821,AF50M,Ead/Ea22-like family protein,High
+batch_2,YP_0092059991,PHOLD,terminase small subunit,High
+batch_2,YP_0092060031,PHOLD,head maturation protease,High
+batch_2,YP_0092060551,PHOLD,MazG-like pyrophosphatase,High
+batch_2,YP_0092062321,PHOLD,head fiber protein,High
+batch_2,YP_0092157551,AF50M,Type II toxin-antitoxin system HicA family toxin,High
+batch_2,YP_0092157671,PHOLD,tRNA nucleotidyltransferase,High
+batch_2,YP_0092157691,PHOLD,HNH endonuclease,High
+batch_2,YP_0092189551,PHOLD,Arc-like repressor,High
+batch_2,YP_0092190301,PHOLD,transcriptional regulator,High
+batch_2,YP_0092190481,AF50M,Phage tail protein,High
+batch_2,YP_0092226081,PHOLD,ParB C-terminal domain,High
+batch_2,YP_0092226331,PHOLD,nucleotide kinase,High
+batch_2,YP_0092227231,PHOLD,Mu Gam-like end protection,High
+batch_2,YP_0092248541,PHOLD,RIIB lysis inhibitor,High
+batch_4,YP_0092737091,AF50M,HK97 gp10 family phage protein,Quasi
+batch_4,YP_0092745991,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;MEN1463274 : Uncharacterized protein (active UniProt ID: Y);A0A554HBK8 : Uncharacterized protein (active UniProt ID: N);MBG5580545 : Uncharacterized protein (active UniProt ID: Y);MBF1839946 : Uncharacterized protein (active UniProt ID: Y);HFT7090132 : Uncharacterized protein (active UniProt ID: Y);OVZ69028 : Uncharacterized protein (active UniProt ID: Y);EME0455682 : Uncharacterized protein (active UniProt ID: Y);HEP8364799 : Uncharacterized protein (active UniProt ID: Y);ELN4318670 : Uncharacterized protein (active UniProt ID: N);OFB99098 : Uncharacterized protein (active UniProt ID: Y);MEH0958568 : Uncharacterized protein (active UniProt ID: Y);HFE8849432 : Uncharacterized protein (active UniProt ID: Y);MFG4771080 : Uncharacterized protein (active UniProt ID: Y);MFG8944827 : Uncharacterized protein (active UniProt ID: Y);HDQ4089118 : Uncharacterized protein (active UniProt ID: Y);HFT7057652 : Uncharacterized protein (active UniProt ID: Y);EMN0404535 : Uncharacterized protein (active UniProt ID: Y);KSK05229 : Uncharacterized protein (active UniProt ID: Y);MFG9336367 : Uncharacterized protein (active UniProt ID: Y);MBH8319872 : Uncharacterized protein (active UniProt ID: Y);MBX6068160 : Uncharacterized protein (active UniProt ID: Y);MFG4977263 : Uncharacterized protein (active UniProt ID: Y);MFG4941261 : Uncharacterized protein (active UniProt ID: Y);ELN4392732 : Uncharacterized protein (active UniProt ID: Y);MFG4973157 : Uncharacterized protein (active UniProt ID: Y);HEP9939693 : Uncharacterized protein (active UniProt ID: Y);MFG9142973 : Uncharacterized protein (active UniProt ID: Y);MFG9759758 : Uncharacterized protein (active UniProt ID: Y);KSQ05989 : Uncharacterized protein (active UniProt ID: Y);MFG4495383 : Uncharacterized protein (active UniProt ID: Y);MBR7843781 : Uncharacterized protein (active UniProt ID: Y);AUA93477 : Uncharacterized protein (active UniProt ID: Y);EMG5018300 : Uncharacterized protein (active UniProt ID: Y);MEE1700342 : Uncharacterized protein (active UniProt ID: Y);TEC13033 : Uncharacterized protein (active UniProt ID: Y);HEJ4952078 : Uncharacterized protein (active UniProt ID: Y);EMZ8418016 : Uncharacterized protein (active UniProt ID: Y);ELN5420216 : Uncharacterized protein (active UniProt ID: N);HFQ9696541 : Uncharacterized protein (active UniProt ID: Y);ENT5132338 : Uncharacterized protein (active UniProt ID: Y);MBN1015573 : Uncharacterized protein (active UniProt ID: Y);KWS00585 : Uncharacterized protein (active UniProt ID: Y);RQC33123 : Uncharacterized protein (active UniProt ID: Y);HFE8811888 : Uncharacterized protein (active UniProt ID: Y);MBH4269491 : Uncharacterized protein (active UniProt ID: Y);MBH3855513 : Uncharacterized protein (active UniProt ID: Y);EMN2349302 : Uncharacterized protein (active UniProt ID: Y);MEJ9026900 : Uncharacterized protein (active UniProt ID: Y);KSL21992 : Uncharacterized protein (active UniProt ID: Y);SUC92838 : Uncharacterized protein (active UniProt ID: Y);HDR0057593 : Uncharacterized protein (active UniProt ID: Y);ELP1386179 : Uncharacterized protein (active UniProt ID: N);AUA68949 : Uncharacterized protein (active UniProt ID: Y);MDI4193762 : Uncharacterized protein (active UniProt ID: Y);MFG4764071 : Uncharacterized protein (active UniProt ID: Y);UYH39786 : Uncharacterized protein (active UniProt ID: Y);HEH4479616 : Uncharacterized protein (active UniProt ID: Y);HEK2446502 : Uncharacterized protein (active UniProt ID: Y);MEQ6845799 : Uncharacterized protein (active UniProt ID: Y);A0A6A9KL74 : Uncharacterized protein (active UniProt ID: N);ENT5377524 : Uncharacterized protein (active UniProt ID: Y);TSC41199 : Uncharacterized protein (active UniProt ID: Y);EMM2681320 : Uncharacterized protein (active UniProt ID: Y);HDV4159149 : Uncharacterized protein (active UniProt ID: Y);MFG4839670 : Uncharacterized protein (active UniProt ID: Y);MFH3554198 : Uncharacterized protein (active UniProt ID: Y);ELK4745666 : Uncharacterized protein (active UniProt ID: N);HEH4765243 : Uncharacterized protein (active UniProt ID: Y);KSI71158 : Uncharacterized protein (active UniProt ID: Y);EMW6601134 : Uncharacterized protein (active UniProt ID: Y);MFG4716145 : Uncharacterized protein (active UniProt ID: Y);MFG4922187 : Uncharacterized protein (active UniProt ID: Y);HFL2826855 : Uncharacterized protein (active UniProt ID: Y);MBR7876693 : Uncharacterized protein (active UniProt ID: Y);MEN1791198 : Uncharacterized protein (active UniProt ID: Y);HDG9174571 : Uncharacterized protein (active UniProt ID: Y);MFG9581497 : Uncharacterized protein (active UniProt ID: Y);HFT7069776 : Uncharacterized protein (active UniProt ID: Y);AON70313 : Uncharacterized protein (active UniProt ID: Y);HFE9247770 : Uncharacterized protein (active UniProt ID: Y);EMP3659698 : Uncharacterized protein (active UniProt ID: Y);MEQ6702092 : Uncharacterized protein (active UniProt ID: Y);A0A8B4ZL70 : VOC family protein (active UniProt ID: N);OKS11497 : Uncharacterized protein (active UniProt ID: Y);MEN1492879 : Uncharacterized protein (active UniProt ID: Y);HFH4497441 : Uncharacterized protein (active UniProt ID: Y);UXJ44034 : Uncharacterized protein (active UniProt ID: Y);WP_031294053 : hypothetical protein (active UniProt ID: Y);HEQ0225207 : Uncharacterized protein (active UniProt ID: Y);MFG4748901 : Uncharacterized protein (active UniProt ID: Y);WMU87110 : Uncharacterized protein (active UniProt ID: Y);MFG4911001 : Uncharacterized protein (active UniProt ID: Y);EKU4262502 : Uncharacterized protein (active UniProt ID: N);WQI65218 : Uncharacterized protein (active UniProt ID: Y);MFG4731685 : Uncharacterized protein (active UniProt ID: Y);MFG4847841 : Uncharacterized protein (active UniProt ID: Y);EKW6217842 : Uncharacterized protein (active UniProt ID: N);EMB7189454 : Uncharacterized protein (active UniProt ID: Y);HDV4218131 : Uncharacterized protein (active UniProt ID: Y);HDQ4075332 : Uncharacterized protein (active UniProt ID: Y);MFG4869700 : Uncharacterized protein (active UniProt ID: Y);UJC03974 : Uncharacterized protein (active UniProt ID: Y);HFL2814364 : Uncharacterized protein (active UniProt ID: Y);MEJ9092333 : Uncharacterized protein (active UniProt ID: Y);HDV4138500 : Uncharacterized protein (active UniProt ID: Y);MUI72946 : Uncharacterized protein (active UniProt ID: Y);MEN1605244 : Uncharacterized protein (active UniProt ID: Y);MFG4857617 : Uncharacterized protein (active UniProt ID: Y);MCZ7984195 : Uncharacterized protein (active UniProt ID: Y);MCR3791984 : Uncharacterized protein (active UniProt ID: Y);HFH3273790 : Uncharacterized protein (active UniProt ID: Y);MEV1459263 : Uncharacterized protein (active UniProt ID: Y);KSQ50381 : Uncharacterized protein (active UniProt ID: Y);HDV4118722 : Uncharacterized protein (active UniProt ID: Y);MEQ6846725 : Uncharacterized protein (active UniProt ID: Y);MEZ1749736 : Uncharacterized protein (active UniProt ID: Y);WMU23512 : Uncharacterized protein (active UniProt ID: Y);MEN1718194 : Uncharacterized protein (active UniProt ID: Y);HEP8867378 : Uncharacterized protein (active UniProt ID: Y);MBW0807743 : Uncharacterized protein (active UniProt ID: Y);HDY5562497 : Uncharacterized protein (active UniProt ID: Y);WRH51269 : Uncharacterized protein (active UniProt ID: Y);HCF1933574 : Uncharacterized protein (active UniProt ID: Y);A0A0V6HTT5 : Uncharacterized protein (active UniProt ID: N);MBG4534060 : Uncharacterized protein (active UniProt ID: Y);MEQ6535077 : Uncharacterized protein (active UniProt ID: Y);RCM69010 : Uncharacterized protein (active UniProt ID: Y);HDQ9714960 : Uncharacterized protein (active UniProt ID: Y);AID86736 : Uncharacterized protein (active UniProt ID: Y);HEJ2930299 : Uncharacterized protein (active UniProt ID: Y);ELG5280063 : Uncharacterized protein (active UniProt ID: N);MEQ6566561 : Uncharacterized protein (active UniProt ID: Y);EKW9801482 : Uncharacterized protein (active UniProt ID: N);MEN1478420 : Uncharacterized protein (active UniProt ID: Y);MEF0781782 : Uncharacterized protein (active UniProt ID: Y);MFG3981028 : Uncharacterized protein (active UniProt ID: Y);EMN1576813 : Uncharacterized protein (active UniProt ID: Y);HFH4231027 : Uncharacterized protein (active UniProt ID: Y);KSS88371 : Uncharacterized protein (active UniProt ID: Y);HEJ1963184 : Uncharacterized protein (active UniProt ID: Y);HFH4167327 : Uncharacterized protein (active UniProt ID: Y);KSR84437 : Uncharacterized protein (active UniProt ID: Y);EMM9220065 : Uncharacterized protein (active UniProt ID: Y);MFG4956971 : Uncharacterized protein (active UniProt ID: Y);EML0709568 : Uncharacterized protein (active UniProt ID: Y);MFG4993345 : Uncharacterized protein (active UniProt ID: Y);HFT7992314 : Uncharacterized protein (active UniProt ID: Y);MFH3531681 : Uncharacterized protein (active UniProt ID: Y);WCV42095 : Uncharacterized protein (active UniProt ID: Y);HFH4104533 : Uncharacterized protein (active UniProt ID: Y);HDQ8765393 : Uncharacterized protein (active UniProt ID: Y);MZY13269 : Uncharacterized protein (active UniProt ID: Y);MFG4657354 : Uncharacterized protein (active UniProt ID: Y);EMJ7733822 : Uncharacterized protein (active UniProt ID: Y);HGG0775040 : Uncharacterized protein (active UniProt ID: Y);MFG4231640 : Uncharacterized protein (active UniProt ID: Y);NPS58214 : Uncharacterized protein (active UniProt ID: Y);MEJ9097615 : Uncharacterized protein (active UniProt ID: Y);MCZ7795136 : Uncharacterized protein (active UniProt ID: Y);MFG4811405 : Uncharacterized protein (active UniProt ID: Y);AON72783 : Uncharacterized protein (active UniProt ID: Y);HFF0267745 : Uncharacterized protein (active UniProt ID: Y);MBR7857570 : Uncharacterized protein (active UniProt ID: Y);A0A068H4J2 : Uncharacterized protein (active UniProt ID: N);MFG9777042 : Uncharacterized protein (active UniProt ID: Y);HFE9252595 : Uncharacterized protein (active UniProt ID: Y);HFE9094691 : Uncharacterized protein (active UniProt ID: Y);HFH4526899 : Uncharacterized protein (active UniProt ID: Y);XAQ17068 : Uncharacterized protein (active UniProt ID: Y);MCZ9698520 : Uncharacterized protein (active UniProt ID: N);MEX7120502 : Uncharacterized protein (active UniProt ID: Y);UJC03073 : Uncharacterized protein (active UniProt ID: Y);MFG4863384 : Uncharacterized protein (active UniProt ID: Y);MZY60794 : Uncharacterized protein (active UniProt ID: Y);UJC10195 : Uncharacterized protein (active UniProt ID: Y);HFI2011772 : Uncharacterized protein (active UniProt ID: Y);MFG4900244 : Uncharacterized protein (active UniProt ID: Y);EMN0610827 : Uncharacterized protein (active UniProt ID: Y);WMU69961 : Uncharacterized protein (active UniProt ID: Y);ENT4349358 : Uncharacterized protein (active UniProt ID: Y);HFT7120281 : Uncharacterized protein (active UniProt ID: Y);MEI5649948 : Uncharacterized protein (active UniProt ID: Y);MFG4935647 : Uncharacterized protein (active UniProt ID: Y);EME7054425 : Uncharacterized protein (active UniProt ID: Y);KSG99728 : Uncharacterized protein (active UniProt ID: Y);RMJ84820 : Uncharacterized protein (active UniProt ID: Y);MBU5787541 : Uncharacterized protein (active UniProt ID: Y);MCZ7826685 : Uncharacterized protein (active UniProt ID: Y);MFG4882210 : Uncharacterized protein (active UniProt ID: Y);HDZ3403413 : Uncharacterized protein (active UniProt ID: Y);WMU34486 : Uncharacterized protein (active UniProt ID: Y);ELQ7808310 : Uncharacterized protein (active UniProt ID: N);HEH4786128 : Uncharacterized protein (active UniProt ID: Y);HDU8946180 : Uncharacterized protein (active UniProt ID: Y);HFE8723450 : Uncharacterized protein (active UniProt ID: Y);HDQ4173371 : Uncharacterized protein (active UniProt ID: Y);EML0074043 : Uncharacterized protein (active UniProt ID: Y);HFT1984991 : Uncharacterized protein (active UniProt ID: Y);HFF2401770 : Uncharacterized protein (active UniProt ID: Y);MEZ7250341 : Uncharacterized protein (active UniProt ID: Y);MFG4713629 : Uncharacterized protein (active UniProt ID: Y);HFH4206639 : Uncharacterized protein (active UniProt ID: Y);EMM1962223 : Uncharacterized protein (active UniProt ID: Y);KSO45488 : Uncharacterized protein (active UniProt ID: Y);HFH4457880 : Uncharacterized protein (active UniProt ID: Y);MDI2233138 : Uncharacterized protein (active UniProt ID: Y);HFF0207344 : Uncharacterized protein (active UniProt ID: Y);MDP2555899 : Uncharacterized protein (active UniProt ID: Y);HEO1640146 : Uncharacterized protein (active UniProt ID: Y);HFH4512427 : Uncharacterized protein (active UniProt ID: Y);MFG4588232 : Uncharacterized protein (active UniProt ID: Y);ELQ7377088 : Uncharacterized protein (active UniProt ID: N);EMM6884629 : Uncharacterized protein (active UniProt ID: Y);MFG8910099 : Uncharacterized protein (active UniProt ID: Y);MFG4892157 : Uncharacterized protein (active UniProt ID: Y);HFF2354533 : Uncharacterized protein (active UniProt ID: Y);MEF2453622 : Uncharacterized protein (active UniProt ID: Y);HFH4148891 : Uncharacterized protein (active UniProt ID: Y);MFG4525675 : Uncharacterized protein (active UniProt ID: Y);HEH4302998 : Uncharacterized protein (active UniProt ID: Y);UJC09280 : Uncharacterized protein (active UniProt ID: Y);MDE9379068 : Uncharacterized protein (active UniProt ID: Y);ELK2663175 : Uncharacterized protein (active UniProt ID: Y);WMU80490 : Uncharacterized protein (active UniProt ID: Y);HDY6116312 : Uncharacterized protein (active UniProt ID: Y);HDY5997099 : Uncharacterized protein (active UniProt ID: Y);KSI19975 : Uncharacterized protein (active UniProt ID: Y);HGE2343653 : Uncharacterized protein (active UniProt ID: Y);EML1098242 : Uncharacterized protein (active UniProt ID: Y);EMM7881834 : Uncharacterized protein (active UniProt ID: Y);MFG4248466 : Uncharacterized protein (active UniProt ID: Y);HFE9285808 : Uncharacterized protein (active UniProt ID: Y);TEC13033 : hypothetical protein (active UniProt ID: N);MBG7054634 : Uncharacterized protein (active UniProt ID: Y);HGE2308938 : Uncharacterized protein (active UniProt ID: Y);HDQ4207358 : Uncharacterized protein (active UniProt ID: Y);MEX7034982 : Uncharacterized protein (active UniProt ID: Y)",Low
+batch_2,YP_0092755141,AF50M,Gp11,High
+batch_2,YP_0092755321,PHOLD,DarB-like antirestriction,High
+batch_2,YP_0092755421,PHOLD,single strand DNA binding protein,High
+batch_2,YP_0092755581,PHOLD,FtsK/SpoIIIE-like protein,High
+batch_2,YP_0092755621,PHOLD,ATP-dependent DNA ligase,High
+batch_4,YP_0092756391,AF50M,Uncharacterized protein,Low
+batch_2,YP_0092756841,PHOLD,minor tail protein,High
+batch_2,YP_0092759671,PHOLD,HNH endonuclease,High
+batch_2,YP_0092759711,PHOLD,virion structural protein,High
+batch_2,YP_0092760361,PHOLD,single strand DNA binding protein,High
+batch_2,YP_0092760851,PHOLD,ParB C-terminal domain,High
+batch_2,YP_0099669951,PHOLD,portal protein,High
+batch_2,YP_0247641,PHOLD,Sak4-like ssDNA annealing protein,High
+batch_2,YP_0247791,PHOLD,enoyl-CoA hydratase/carnithine racemase-like,High
+batch_2,YP_1642691,PHOLD,DNA repair protein,High
+batch_2,YP_1642961,PHOLD,replication initiation O-like,High
+batch_2,YP_1643121,AF50M,Head decoration protein,High
+batch_2,YP_1643201,AF50M,Phage tail protein,High
+batch_2,YP_1643301,PHOLD,portal protein,High
+batch_2,YP_9504581,PHOLD,tail protein,High
+batch_4,biochar_1001_17,AF50M,Phage tail collar domain-containing protein,Quasi
+batch_4,biochar_1006_15,AF50M,Tail assembly chaperone,High
+batch_4,biochar_1019_31,AF50M,Retrotransposon gag domain-containing protein,Quasi
+batch_4,biochar_1043_67,AF50M,Uncharacterized protein,Low
+batch_4,biochar_1062_35,AF50M,Phage capsid family protein,High
+batch_4,biochar_1090_40,AF50M,Adenine methyltransferase,High
+batch_4,biochar_1094_16,AF50M,Tail protein,High
+batch_4,biochar_1098_40,AF50M,NodB homology domain-containing protein,Quasi
+batch_4,biochar_1098_44,AF50M,Tail protein,High
+batch_4,biochar_1098_53,AF50M,Calx-beta domain-containing protein,Quasi
+batch_4,biochar_1108_26,AF50M,NlpC/P60 domain-containing protein,Quasi
+batch_4,biochar_1127_14,AF50M,Tail sheath protein subtilisin-like domain-containing protein,Quasi
+batch_4,biochar_1127_33,AF50M,Glycosyltransferase family 25 (LPS biosynthesis protein),High
+batch_2,biochar_112_41,PHOLD,virion structural protein,High
+batch_4,biochar_1157_25,AF50M,Phage terminase large subunit N-terminal domain-containing protein,Quasi
+batch_4,biochar_1163_31,AF50M,Head decoration protein,High
+batch_4,biochar_1201_23,AF50M,PilC beta-propeller domain-containing protein,Quasi
+batch_3,biochar_120_11,PHOLD,CRISPR/Cas system associated,High
+batch_3,biochar_121_43,PHOLD,central tail fiber J,High
+batch_4,biochar_1220_49,AF50M,Pentapeptide repeat-containing protein,High
+batch_4,biochar_1227_6,AF50M,Phage capsid-like C-terminal domain-containing protein,Quasi
+batch_3,biochar_122_30,AF50M,ADP-ribose pyrophosphatase YjhB (NUDIX family),High
+batch_4,biochar_1271_9,AF50M,Terminase,High
+batch_4,biochar_1293_31,AF50M,C3H1-type domain-containing protein,Quasi
+batch_4,biochar_1300_12,AF50M,Phage terminase large subunit N-terminal domain-containing protein,Quasi
+batch_4,biochar_1364_30,AF50M,Phage tail protein,High
+batch_4,biochar_1364_31,AF50M,PLAT domain-containing protein,Quasi
+batch_4,biochar_1387_23,AF50M,Tail assembly chaperone,High
+batch_4,biochar_1387_26,AF50M,DUF397 domain-containing protein,Quasi
+batch_4,biochar_1387_27,AF50M,Uncharacterized protein,Low
+batch_4,biochar_1387_28,AF50M,Phage tail protein,High
+batch_4,biochar_1387_30,AF50M,HK97 gp10 family phage protein,Quasi
+batch_4,biochar_1387_31,AF50M,Phage tail protein,High
+batch_4,biochar_1387_32,AF50M,Rieske domain-containing protein,Quasi
+batch_4,biochar_1387_40,AF50M,HK97 family phage major capsid protein,High
+batch_4,biochar_1394_32,AF50M,Tail protein,High
+batch_2,biochar_13_92,PHOLD,SbcC-like subunit of palindrome specific endonuclease,High
+batch_4,biochar_1421_8,AF50M,Glycosyltransferase 2-like domain-containing protein,Quasi
+batch_4,biochar_1433_1,AF50M,PD-(D/E)XK endonuclease-like domain-containing protein,Quasi
+batch_4,biochar_1439_1,AF50M,IPT/TIG domain-containing protein,Quasi
+batch_4,biochar_1491_29,AF50M,Terminase,High
+batch_4,biochar_1494_12,AF50M,Glycosyl hydrolase family 26,High
+batch_4,biochar_1533_5,AF50M,MBG domain-containing protein,Quasi
+batch_4,biochar_1568_1,AF50M,Phage portal protein,High
+batch_4,biochar_1568_17,AF50M,Minor tail protein,High
+batch_4,biochar_1568_3,AF50M,Uncharacterized protein,Low
+batch_4,biochar_1568_8,AF50M,Peptidoglycan-binding protein,High
+batch_3,biochar_156_6,AF50M,Ferredoxin,High
+batch_4,biochar_1580_39,AF50M,Helix-turn-helix transcriptional regulator,High
+batch_4,biochar_1626_1,AF50M,Prepilin-type N-terminal cleavage/methylation domain-containing protein,Quasi
+batch_4,biochar_1626_9,AF50M,Tail assembly chaperone,High
+batch_4,biochar_1627_24,AF50M,Polymer-forming cytoskeletal protein,High
+batch_4,biochar_1660_20,AF50M,N-acetyltransferase domain-containing protein,Quasi
+batch_4,biochar_1660_21,AF50M,Internal virion protein B,High
+batch_4,biochar_1679_13,AF50M,Glycosyltransferase,High
+batch_4,biochar_1682_48,AF50M,Glycosyltransferase GT-D fold domain-containing protein,Quasi
+batch_4,biochar_1684_20,AF50M,Terminase,High
+batch_2,biochar_16_59,PHOLD,tail fiber protein,High
+batch_4,biochar_1704_1,AF50M,Phage portal protein,High
+batch_4,biochar_1704_16,AF50M,Phage tail protein,High
+batch_4,biochar_1711_4,AF50M,YprB ribonuclease H-like domain-containing protein,Quasi
+batch_4,biochar_1722_1,AF50M,Uncharacterized protein,Low
+batch_4,biochar_1727_20,AF50M,Chemotaxis protein histidine kinase CheA,High
+batch_4,biochar_1742_20,PDB,Unknown Function [UniProt ID: ['P00720']],Low
+batch_4,biochar_1757_18,AF50M,Secreted protein,High
+batch_4,biochar_1771_25,AF50M,Sialate O-acetylesterase domain-containing protein,Quasi
+batch_4,biochar_1787_14,AF50M,Phytanoyl-CoA dioxygenase,High
+batch_4,biochar_1787_16,AF50M,Acetyltransferase,High
+batch_4,biochar_1787_18,AF50M,Class I SAM-dependent methyltransferase,High
+batch_4,biochar_1787_2,AF50M,Tail protein,High
+batch_4,biochar_1790_8,AF50M,Phage tail protein,High
+batch_4,biochar_1795_16,AF50M,Phage tail protein,High
+batch_4,biochar_1796_35,AF50M,Carbohydrate binding protein,High
+batch_4,biochar_1796_36,AF50M,DUF5047 domain-containing protein,Quasi
+batch_4,biochar_1797_19,AF50M,RES domain-containing protein,Quasi
+batch_4,biochar_1801_32,AF50M,RecA/RadA recombinase,High
+batch_4,biochar_1808_16,AF50M,Nucleotide-diphospho-sugar transferase domain-containing protein,Quasi
+batch_4,biochar_1808_19,AF50M,Heterokaryon incompatibility domain-containing protein,Quasi
+batch_4,biochar_1821_21,AF50M,Coat protein,High
+batch_4,biochar_1831_1,AF50M,Capsid assembly protein,High
+batch_3,biochar_185_4,AF50M,Glycosyl transferase family 17,High
+batch_3,biochar_185_9,AF50M,Phage major capsid protein,High
+batch_3,biochar_187_34,PHOLD,tail spike protein,High
+batch_4,biochar_1881_30,AF50M,Gp03,High
+batch_5,biochar_1885_38,PHOLD,endonuclease,High
+batch_3,biochar_188_37,AF50M,Class I SAM-dependent methyltransferase,High
+batch_5,biochar_1900_1,PHOLD,DNA polymerase,High
+batch_5,biochar_1909_6,AF50M,Major tail protein,High
+batch_5,biochar_1951_24,PHOLD,tail fiber protein,High
+batch_5,biochar_1960_6,PHOLD,portal protein,High
+batch_5,biochar_1966_39,PHOLD,internal virion protein with endolysin domain,High
+batch_5,biochar_1987_1,PHOLD,virion structural protein,High
+batch_5,biochar_2010_27,PHOLD,head scaffolding protein,High
+batch_5,biochar_2022_15,PHOLD,tail fiber protein,High
+batch_5,biochar_2033_15,AF50M,N-acetyltransferase,High
+batch_3,biochar_203_7,AF50M,"20 kDa chaperonin, chloroplastic",High
+batch_5,biochar_2056_7,AF50M,Phage major capsid protein,High
+batch_5,biochar_2092_18,AF50M,Large terminase protein,High
+batch_3,biochar_212_61,AF50M,Minor tail protein,High
+batch_4,biochar_2222_28,AF50M,DUF3168 domain-containing protein,Quasi
+batch_4,biochar_2250_6,AF50M,Phage protein,Quasi
+batch_4,biochar_2253_8,AF50M,Minor tail protein,High
+batch_4,biochar_2260_20,AF50M,DUF4433 domain-containing protein,Quasi
+batch_3,biochar_226_41,PHOLD,head scaffolding protein,High
+batch_4,biochar_2273_1,AF50M,Tip attachment protein J domain-containing protein,Quasi
+batch_4,biochar_2280_11,AF50M,Lipid/polyisoprenoid-binding YceI-like domain-containing protein,Quasi
+batch_3,biochar_232_43,PHOLD,minor tail protein,High
+batch_4,biochar_2354_2,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;A0AAQ2A5C9 : Uncharacterized protein (active UniProt ID: N);SVS23832 : Uncharacterized protein (active UniProt ID: Y);WP_227502821 : hypothetical protein (active UniProt ID: Y);HFZ2103347 : Uncharacterized protein (active UniProt ID: Y);A0A7Z7SAE4 : Uncharacterized protein (active UniProt ID: N);A0AA46HCR0 : Uncharacterized protein (active UniProt ID: N)",Low
+batch_3,biochar_236_55,PHOLD,amidase,High
+batch_3,biochar_238_67,PHOLD,tail fiber protein,High
+batch_3,biochar_239_23,AF50M,Helix-turn-helix DNA binding domain protein,High
+batch_4,biochar_2408_19,AF50M,RES domain-containing protein,Quasi
+batch_4,biochar_2409_27,AF50M,Terminase large subunit gp17-like C-terminal domain-containing protein,Quasi
+batch_4,biochar_2411_1,AF50M,Unannotated protein,High
+batch_4,biochar_2411_7,AF50M,10 kDa chaperonin,High
+batch_4,biochar_2420_5,AF50M,F5/8 type C domain-containing protein,Quasi
+batch_3,biochar_242_43,PHOLD,DarB-like antirestriction,High
+batch_4,biochar_2430_1,AF50M,ADP ribosyltransferase domain-containing protein,Quasi
+batch_4,biochar_2438_3,AF50M,Tail protein,High
+batch_3,biochar_245_69,PHOLD,toxin,High
+batch_4,biochar_2477_6,AF50M,Phage gp6-like head-tail connector protein,High
+batch_4,biochar_2494_19,AF50M,Baseplate protein J-like domain-containing protein,Quasi
+batch_4,biochar_2496_11,AF50M,Lysozyme (EC 3.2.1.17),High
+batch_3,biochar_251_59,AF50M,Cytosolic carboxypeptidase-like protein 5,High
+batch_3,biochar_2541_3,PHOLD,transposase,High
+batch_3,biochar_254_1,AF50M,Imm-5-like domain-containing protein,Quasi
+batch_3,biochar_2564_10,PHOLD,head scaffolding protein,High
+batch_3,biochar_2596_20,AF50M,Tail protein,High
+batch_3,biochar_2626_1,PHOLD,ferredoxin,High
+batch_3,biochar_2646_15,AF50M,Glycosyltransferase,High
+batch_3,biochar_2650_14,PHOLD,DNA polymerase/primase,High
+batch_3,biochar_2650_27,PHOLD,major tail protein,High
+batch_3,biochar_2650_30,PHOLD,tail terminator,High
+batch_3,biochar_2664_22,AF50M,Phage major capsid protein,High
+batch_3,biochar_2667_10,PHOLD,internal virion protein,High
+batch_3,biochar_2710_9,AF50M,Tail protein,High
+batch_3,biochar_2738_25,AF50M,PD-(D/E)XK nuclease family protein,High
+batch_3,biochar_2748_13,AF50M,HNH endonuclease,High
+batch_3,biochar_274_57,PHOLD,2OG-Fe(II) oxygenase,High
+batch_3,biochar_2762_7,AF50M,Tail protein,High
+batch_3,biochar_2768_11,PHOLD,anti-repressor Ant,High
+batch_3,biochar_2768_15,AF50M,DUF2815 family protein,Quasi
+batch_3,biochar_2804_11,AF50M,Bacteriophage lambda head decoration protein D,High
+batch_3,biochar_280_55,PHOLD,DNA primase,High
+batch_3,biochar_2813_20,AF50M,DUF930 domain-containing protein,Quasi
+batch_3,biochar_2824_1,AF50M,Tip attachment protein J domain-containing protein,Quasi
+batch_3,biochar_282_40,PHOLD,major head and protease protein,High
+batch_3,biochar_2835_12,AF50M,Major tail protein,High
+batch_3,biochar_2856_30,AF50M,GH16 domain-containing protein,Quasi
+batch_3,biochar_285_24,PHOLD,minor head protein,High
+batch_3,biochar_2879_16,AF50M,Terminase small subunit,High
+batch_3,biochar_2887_34,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;WP_116821553 : adenylate kinase (active UniProt ID: Y);AXN39832 : Adenylate kinase (active UniProt ID: Y);A0A7U6H5N0 : Adenylate kinase (active UniProt ID: N)",Low
+batch_3,biochar_2923_1,AF50M,Capsid protein,High
+batch_3,biochar_293_13,AF50M,Transposase,High
+batch_3,biochar_293_64,AF50M,Transcriptional regulator,High
+batch_3,biochar_2943_7,AF50M,Bacterial Ig-like domain-containing protein,Quasi
+batch_3,biochar_2970_19,AF50M,Bacteriophage lambda head decoration protein D,High
+batch_3,biochar_2974_6,AF50M,Uncharacterized protein,Low
+batch_3,biochar_2996_18,AF50M,Phage major capsid protein,High
+batch_3,biochar_3001_7,AF50M,DUF5666 domain-containing protein,Quasi
+batch_3,biochar_3042_3,AF50M,C2H2-type domain-containing protein,Quasi
+batch_3,biochar_3090_18,AF50M,DUF935 family protein,Quasi
+batch_3,biochar_3101_25,AF50M,Uncharacterized protein,Low
+batch_3,biochar_3105_1,AF50M,Uncharacterized protein,Low
+batch_3,biochar_3110_15,AF50M,Methyltransferase domain-containing protein,Quasi
+batch_3,biochar_314_77,PHOLD,primase,High
+batch_3,biochar_314_93,AF50M,Unannotated protein,High
+batch_3,biochar_315_34,AF50M,S-DNA-T family DNA segregation ATPase FtsK/SpoIIIE,High
+batch_3,biochar_3162_4,AF50M,Tail protein,High
+batch_3,biochar_3179_1,AF50M,AAA+ ATPase domain-containing protein,Quasi
+batch_3,biochar_3180_18,AF50M,Tail protein,High
+batch_3,biochar_3188_1,AF50M,Fibronectin type III domain-containing protein,Quasi
+batch_3,biochar_318_68,PHOLD,holin,High
+batch_3,biochar_3190_1,AF50M,Terminase large subunit gp17-like C-terminal domain-containing protein,Quasi
+batch_3,biochar_3252_14,AF50M,Arrestin-like N-terminal domain-containing protein,Quasi
+batch_3,biochar_326_12,PHOLD,internal virion protein,High
+batch_3,biochar_327_73,AF50M,Terminase small subunit,High
+batch_3,biochar_3290_1,AF50M,Phage tail fibre repeat-containing protein,High
+batch_3,biochar_3290_12,AF50M,Portal protein,High
+batch_3,biochar_3322_1,AF50M,DUF4842 domain-containing protein,Quasi
+batch_3,biochar_3322_8,AF50M,Phage tail protein,High
+batch_3,biochar_336_8,PHOLD,partition protein ATPase,High
+batch_3,biochar_3408_22,AF50M,DUF4157 domain-containing protein,Quasi
+batch_3,biochar_3420_1,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;RTL17230 : Uncharacterized protein (active UniProt ID: Y);A0A3S0DHR8 : Uncharacterized protein (active UniProt ID: N)",Low
+batch_3,biochar_3427_13,AF50M,SF4 helicase domain-containing protein,Quasi
+batch_3,biochar_3454_23,AF50M,Phage-like element PBSX protein XkdF domain-containing protein,Quasi
+batch_3,biochar_346_62,PHOLD,DNA primase,High
+batch_3,biochar_3490_15,AF50M,Glycosyltransferase,High
+batch_3,biochar_3496_8,AF50M,"WARNING UniProt ID obsolete, info fetched from UniParc;MYJ52048 : Phage virion morphogenesis protein (active UniProt ID: Y);MYD77278 : Phage virion morphogenesis protein (active UniProt ID: Y);A0A8T6HWD2 : Phage virion morphogenesis protein (active UniProt ID: Y);MXZ79868 : Phage virion morphogenesis protein (active UniProt ID: Y);A0A6L7PEY1 : Phage virion morphogenesis protein (active UniProt ID: N)",Low
+batch_3,biochar_3520_18,AF50M,Thymidylate kinase-like domain-containing protein,Quasi
+batch_3,biochar_3520_21,AF50M,Holliday junction nuclease RuvC,High
+batch_3,biochar_3527_16,AF50M,Baseplate protein J-like domain-containing protein,Quasi
+batch_3,biochar_3529_10,AF50M,Bacteriophage tail tape measure N-terminal domain-containing protein,Quasi
+batch_3,biochar_3529_15,AF50M,Sialate O-acetylesterase domain-containing protein,Quasi
+batch_3,biochar_3529_3,AF50M,DUF1214 domain-containing protein,Quasi
+batch_3,biochar_3531_12,AF50M,Uncharacterized protein,Low
+batch_3,biochar_353_38,PHOLD,DNA polymerase,High
+batch_3,biochar_3570_10,AF50M,Phage portal protein,High
+batch_3,biochar_3577_7,AF50M,Tail protein,High
+batch_3,biochar_357_39,AF50M,Pentapeptide repeat-containing protein,High
+batch_3,biochar_3596_4,AF50M,Uncharacterized protein,Low
+batch_3,biochar_3630_11,AF50M,C-methyltransferase,High
+batch_3,biochar_3773_1,AF50M,TonB-dependent receptor,High
+batch_3,biochar_3838_3,AF50M,DUF2313 domain-containing protein,Quasi
+batch_3,biochar_3857_4,AF50M,Bacteriophage Mu GpT domain-containing protein,Quasi
+batch_3,biochar_3900_25,AF50M,PE-PGRS family protein,High
+batch_3,biochar_3909_31,AF50M,Terminase,High
+batch_3,biochar_3941_5,AF50M,Bacteriophage Mu GpT domain-containing protein,Quasi
+batch_3,biochar_3941_6,AF50M,Unannotated protein,High
+batch_3,biochar_3943_2,AF50M,Ubiquitin-activating enzyme E1 FCCH domain-containing protein,Quasi
+batch_3,biochar_3966_1,AF50M,Terminase large subunit gp17-like C-terminal domain-containing protein,Quasi
+batch_3,biochar_396_4,PHOLD,internal virion protein,High
+batch_3,biochar_396_55,PHOLD,major tail protein,High
+batch_3,biochar_398_14,PHOLD,head maturation protease,High
+batch_3,biochar_406_47,PHOLD,internal virion protein,High
+batch_3,biochar_4084_1,AF50M,F5/8 type C domain-containing protein,Quasi
+batch_3,biochar_4098_4,AF50M,DUF2341 domain-containing protein,Quasi
+batch_3,biochar_4098_8,AF50M,Type VI secretion system tube protein Hcp,High
+batch_3,biochar_4138_10,AF50M,Scaffolding protein,High
+batch_3,biochar_4189_16,AF50M,SAM-dependent methyltransferase,High
+batch_3,biochar_419_49,AF50M,Unannotated protein,High
+batch_3,biochar_4214_3,AF50M,Phage tail protein,High
+batch_3,biochar_4222_27,AF50M,NrS-1 polymerase-like helicase domain-containing protein,Quasi
+batch_3,biochar_428_9,AF50M,Lambda recombination protein,High
+batch_3,biochar_432_18,AF50M,Unannotated protein,High
+batch_3,biochar_4333_2,AF50M,Tail protein,High
+batch_3,biochar_435_41,AF50M,Terminase,High
+batch_3,biochar_4395_11,AF50M,Phage tail tape measure protein,High
+batch_4,biochar_4395_13,AF50M,Phage tail protein,High
+batch_4,biochar_4395_9,AF50M,ReqiPepy6 Gp37-like protein,High
+batch_4,biochar_4413_8,AF50M,Ubiquitin-activating enzyme E1 FCCH domain-containing protein,Quasi
+batch_4,biochar_4423_7,AF50M,Anaphase-promoting complex subunit 4-like WD40 domain-containing protein,Quasi
+batch_4,biochar_4449_10,AF50M,Uncharacterized protein,Low
+batch_3,biochar_444_61,AF50M,Tail protein,High
+batch_4,biochar_4453_16,AF50M,Recombinase zinc beta ribbon domain-containing protein,Quasi
+batch_4,biochar_4453_18,AF50M,Uncharacterized protein,Low
+batch_4,biochar_4453_19,AF50M,DUF2637 domain-containing protein,Quasi
+batch_4,biochar_4453_22,AF50M,DUF5753 domain-containing protein,Quasi
+batch_4,biochar_4463_17,AF50M,Exodeoxyribonuclease X-like C-terminal domain-containing protein,Quasi
+batch_4,biochar_4514_3,AF50M,Phage gp6-like head-tail connector protein,High
+batch_3,biochar_453_1,PHOLD,Gp2.5-like ssDNA binding protein and ssDNA annealing protein,High
+batch_4,biochar_4597_9,AF50M,DUF3168 domain-containing protein,Quasi
+batch_4,biochar_4626_9,AF50M,Glycosyltransferase,High
+batch_3,biochar_463_36,PHOLD,head-tail adaptor,High
+batch_3,biochar_463_37,PHOLD,tail protein,High
+batch_4,biochar_4640_19,AF50M,ATPase,High
+batch_3,biochar_471_60,AF50M,PQQ-binding-like beta-propeller repeat protein,High
+batch_4,biochar_4768_1,AF50M,Phage capsid-like C-terminal domain-containing protein,Quasi
+batch_4,biochar_4882_10,AF50M,FtsK domain-containing protein,Quasi
+batch_4,biochar_4899_11,AF50M,Glycosyltransferase family 9 protein,High
+batch_4,biochar_4912_13,AF50M,Glycosyltransferase 2-like domain-containing protein,Quasi
+batch_4,biochar_4926_4,AF50M,DUF4402 domain-containing protein,Quasi
+batch_4,biochar_4964_2,AF50M,Coil containing protein,High
+batch_4,biochar_4968_13,AF50M,Phage gp6-like head-tail connector protein,High
+batch_3,biochar_499_29,PHOLD,DNA methyltransferase,High
+batch_4,biochar_5003_1,AF50M,Plastocyanin-like domain-containing protein,Quasi
+batch_4,biochar_5025_16,AF50M,WxL domain-containing protein,Quasi
+batch_4,biochar_5034_19,AF50M,Virion structural protein,High
+batch_4,biochar_5060_3,AF50M,Fibrobacter succinogenes major paralogous domain-containing protein,Quasi
+batch_4,biochar_5104_4,AF50M,Viral coat protein P2 N-terminal domain-containing protein,Quasi
+batch_3,biochar_521_46,AF50M,Phage related protein,High
+batch_3,biochar_521_6,AF50M,Exosporium protein C,High
+batch_4,biochar_5270_9,AF50M,Low-complexity protein,High
+batch_4,biochar_5287_8,AF50M,Terminase large subunit ribonuclease H-like domain-containing protein,Quasi
+batch_4,biochar_5301_1,AF50M,Large polyvalent protein associated domain-containing protein,Quasi
+batch_4,biochar_5301_16,AF50M,DUF2325 domain-containing protein,Quasi
+batch_4,biochar_5322_14,AF50M,Uncharacterized protein,Low
+batch_4,biochar_5356_13,AF50M,DUF3168 domain-containing protein,Quasi
+batch_4,biochar_5399_5,AF50M,Virion structural protein,High
+batch_4,biochar_5435_8,AF50M,RHS repeat protein,High
+batch_4,biochar_5438_1,AF50M,DUF932 domain-containing protein,Quasi
+batch_4,biochar_5586_14,AF50M,Tip attachment protein J domain-containing protein,Quasi
+batch_3,biochar_563_10,PHOLD,collagen like minor tail,High
+batch_4,biochar_5649_15,AF50M,DNA-packaging protein,High
+batch_4,biochar_5678_11,AF50M,Terminase large subunit gp17-like C-terminal domain-containing protein,Quasi
+batch_4,biochar_5697_5,AF50M,Zeta toxin domain-containing protein,Quasi
+batch_4,biochar_5759_11,AF50M,Uncharacterized protein,Low
+batch_4,biochar_5759_15,AF50M,Capsid protein,High
+batch_3,biochar_578_30,PHOLD,HNH endonuclease,High
+batch_3,biochar_585_56,AF50M,Tail tubular protein,High
+batch_3,biochar_600_10,PHOLD,glycosyltransferase,High
+batch_3,biochar_600_14,AF50M,DegT/DnrJ/EryC1/StrS aminotransferase family protein,High
+batch_4,biochar_6085_1,AF50M,LamG-like jellyroll fold domain-containing protein,Quasi
+batch_4,biochar_6093_6,AF50M,N-acetylmuramoyl-L-alanine amidase domain-containing protein,Quasi
+batch_3,biochar_609_27,AF50M,Phage portal protein,High
+batch_2,biochar_60_26,PHOLD,integrase,High
+batch_4,biochar_6117_7,AF50M,Capsid assembly protein,High
+batch_2,biochar_61_1,PHOLD,tail protein,High
+batch_3,biochar_625_15,PHOLD,transcriptional repressor,High
+batch_3,biochar_625_57,AF50M,Portal protein,High
+batch_3,biochar_626_35,PHOLD,tail length tape measure protein,High
+batch_3,biochar_644_13,PHOLD,minor tail protein,High
+batch_3,biochar_652_42,PHOLD,peptidase,High
+batch_3,biochar_652_51,AF50M,Tail protein,High
+batch_3,biochar_652_58,AF50M,Phage major capsid protein,High
+batch_3,biochar_664_18,PHOLD,hydrolase,High
+batch_3,biochar_677_67,PHOLD,terminase large subunit,High
+batch_3,biochar_688_51,PHOLD,exonuclease,High
+batch_3,biochar_690_22,AF50M,DNA-directed DNA polymerase (EC 2.7.7.7),High
+batch_3,biochar_690_50,PHOLD,terminase large subunit,High
+batch_3,biochar_698_22,AF50M,Terminase,High
+batch_3,biochar_704_46,AF50M,Capsid protein,High
+batch_3,biochar_717_23,PHOLD,virion structural protein,High
+batch_2,biochar_71_34,PHOLD,head-tail adaptor,High
+batch_2,biochar_71_43,AF50M,Minor tail protein,High
+batch_3,biochar_721_33,PHOLD,DarB-like antirestriction,High
+batch_2,biochar_72_1,PHOLD,head-tail adaptor Ad1,High
+batch_3,biochar_755_7,AF50M,NinB protein,High
+batch_3,biochar_760_31,PHOLD,virion structural protein,High
+batch_3,biochar_763_50,AF50M,Bacteriophage lambda head decoration protein D,High
+batch_3,biochar_779_59,PHOLD,DnaC-like helicase loader,High
+batch_3,biochar_792_14,AF50M,Major tail protein,High
+batch_3,biochar_793_37,PHOLD,single strand DNA binding protein,High
+batch_3,biochar_798_35,PHOLD,terminase large subunit,High
+batch_3,biochar_798_52,PHOLD,baseplate wedge subunit,High
+batch_3,biochar_816_41,PHOLD,virion structural protein,High
+batch_3,biochar_816_45,AF50M,Phage portal protein,High
+batch_4,biochar_831_64,AF50M,Portal protein,High
+batch_4,biochar_850_65,AF50M,Phage tail protein,High
+batch_4,biochar_851_26,AF50M,C1q domain-containing protein,Quasi
+batch_4,biochar_865_43,AF50M,Uncharacterized protein,Low
+batch_4,biochar_867_10,AF50M,Peptidase C1A papain C-terminal domain-containing protein,Quasi
+batch_4,biochar_874_7,AF50M,ERF family protein,High
+batch_4,biochar_875_38,AF50M,Type-4 uracil-DNA glycosylase (EC 2.7.7.7),High
+batch_4,biochar_878_57,AF50M,Pentapeptide repeat-containing protein,High
+batch_4,biochar_897_12,AF50M,Major tail protein,High
+batch_4,biochar_897_17,AF50M,DUF4255 domain-containing protein,Quasi
+batch_4,biochar_909_36,AF50M,Neck protein,High
+batch_4,biochar_918_40,AF50M,VRR-NUC domain-containing protein,Quasi
+batch_4,biochar_918_6,AF50M,BppU N-terminal domain-containing protein,Quasi
+batch_4,biochar_918_68,AF50M,Phage protein,Quasi
+batch_4,biochar_918_71,AF50M,Phage protein,Quasi
+batch_4,biochar_935_38,AF50M,HTH cro/C1-type domain-containing protein,Quasi
+batch_4,biochar_938_18,AF50M,Right handed beta helix domain-containing protein,Quasi
+batch_4,biochar_964_48,AF50M,Phage tail protein,High
+batch_4,biochar_964_54,AF50M,Sulfatase-modifying factor enzyme domain-containing protein,Quasi
+batch_4,biochar_967_14,AF50M,Lipid/polyisoprenoid-binding YceI-like domain-containing protein,Quasi
+batch_4,biochar_967_24,AF50M,Bacterial repeat domain-containing protein,Quasi
+batch_4,biochar_967_32,AF50M,HK97 family phage portal protein,High
+batch_4,biochar_981_36,AF50M,Tail protein,High
+batch_4,biochar_994_1,AF50M,Phage tail assembly protein,High
+batch_4,biochar_994_38,AF50M,Uncharacterized protein,Low
+batch_4,biochar_994_5,AF50M,Phage protein,Quasi
