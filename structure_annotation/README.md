@@ -1,1 +1,1 @@
-##description of structure annotation files
+## description of structure annotation files
