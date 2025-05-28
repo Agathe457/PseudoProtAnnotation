@@ -1,2 +1,2 @@
 ### FoldSeek structure prediction and filtering 
-Notebooks associated with the comparitve analysis, structure similarity search and 
+Notebooks associated with the clustering, comparitve analysis and structure similarity search results 
